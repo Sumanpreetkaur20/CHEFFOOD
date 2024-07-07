@@ -62,7 +62,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repo**
     ```sh
-    git clone https://github.com/sumanpreetkaur20/Chef-Food-bootstrap-website.git
+    git clone https://github.com/sumanpreetkaur20/CHEFFOOD.git
     ```
    
 2. **Navigate to the project directory**
@@ -94,10 +94,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. 
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - spreetkor15@gmail.com
 
-Project Link: [https://sumanpreetkaur20.github.io/Chef-Food-bootstrap-website/](https://sumanpreetkaur20.github.io/Chef-Food-bootstrap-website/)
+Project Link: https://sumanpreetkaur20.github.io/CHEFFOOD/
